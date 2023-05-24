@@ -29,5 +29,12 @@ expo install react-native-safe-area-context@3.3.2
 ```
 
 ### Referências
-    * https://cursos.alura.com.br/course/react-native-typescript-app-consultas-medicas/task/125536
-    * https://docs.nativebase.io/install-expo
+    * 1. Curso Expo TS Native-Base Atual 
+    ```sh
+    https://cursos.alura.com.br/course/react-native-typescript-app-consultas-medicas/task/125536
+    ```
+    
+    * 2. Curso Expo TS Native-Base Integrando Projeto API
+    ```sh
+    https://cursos.alura.com.br/course/react-native-integrando-app-web-api/task/128012
+    ```
