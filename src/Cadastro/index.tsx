@@ -7,7 +7,7 @@ import Logo from '../assets/logo.png';
 import { TouchableOpacity } from 'react-native'
 import Titulo from "../Componentes/Titulo";
 
-export default function Login(){
+export default function Cadastro(){
     return(
         <VStack 
             p={5}
@@ -17,7 +17,7 @@ export default function Login(){
         >
             <Image source={Logo} alt="logo" />
             {/* <Titulo children="Faça Login em sua conta" /> */}
-            <Titulo color="gray.500"> Faça Login em sua conta </Titulo>
+            <Titulo color="gray.500"> Cadastro </Titulo>
             <Box>
                 <FormControl mt={3}>
                     <FormControl.Label>E-mail</FormControl.Label>

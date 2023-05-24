@@ -1,11 +1,11 @@
 import { NativeBaseProvider, StatusBar} from 'native-base'
 import { TEMAS } from './src/estilos/temas';
-import Login from './src/Login';
+import Cadastro from './src/Cadastro';
 
 export default function App() {
   return (
       <NativeBaseProvider theme={TEMAS}>
-        <Login />
+        <Cadastro />
         <StatusBar backgroundColor={TEMAS.colors.blue[900]} />
       </NativeBaseProvider>
   );

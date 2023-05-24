@@ -38,3 +38,8 @@ expo install react-native-safe-area-context@3.3.2
     ```sh
     https://cursos.alura.com.br/course/react-native-integrando-app-web-api/task/128012
     ```
+
+    * 3. Ultimo visto continua
+    ```sh
+    https://cursos.alura.com.br/course/react-native-typescript-app-consultas-medicas/task/125544
+    ```
